@@ -20,4 +20,5 @@ El lenguaje que más manejo es Java
 ## Tecnologias
 - Actualmente estoy aprendiendo a utilizar Git y Github.
 - Manejo html, css
-
+  
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
