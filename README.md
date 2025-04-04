@@ -1,4 +1,7 @@
-# Hi there 👋
+# Jose Salas
+Hola mi nombre es Jose Salas
+## Bienvenido a mi perfil 
+
 
 <!--
 **JoseMSalas/JoseMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,11 +11,14 @@ Here are some ideas to get you started:
 
 -->
 
-## 🔭 I’m currently working on ...
-## 🌱 I’m currently learning ...
-## 👯 I’m looking to collaborate on ...
-## 🤔 I’m looking for help with ...
-## 💬 Ask me about ...
-## 📫 How to reach me: ...
-## 😄 Pronouns: ...
-## ⚡ Fun fact: ...
+## Cursos
+Algunos cursos que he tomado:
+-De Escuela de codigo:
+-Curso Programacion Java 
+-Sistemas web
+# Lenguajes
+El lenguaje que más manejo es Java
+# Tecnologias
+Actualmente estoy aprendiendo a utilizar Git y Github.
+Manejo html, css
+
