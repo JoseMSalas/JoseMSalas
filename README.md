@@ -1,6 +1,5 @@
-# Jose Salas
-Hola mi nombre es Jose Salas
-## Bienvenido a mi perfil 
+# Bienvenido a mi perfil
+Hola mi nombre es Jose Salas 
 
 
 <!--
@@ -13,12 +12,12 @@ Here are some ideas to get you started:
 
 ## Cursos
 Algunos cursos que he tomado:
--De Escuela de codigo:
--Curso Programacion Java 
--Sistemas web
-# Lenguajes
+- De Escuela de codigo:
+- Curso Programacion Java 
+- Sistemas web
+## Lenguajes
 El lenguaje que más manejo es Java
-# Tecnologias
-Actualmente estoy aprendiendo a utilizar Git y Github.
-Manejo html, css
+## Tecnologias
+- Actualmente estoy aprendiendo a utilizar Git y Github.
+- Manejo html, css
 
