@@ -2,11 +2,10 @@
 **JoseMSalas/JoseMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center"> Jose Salas
+<h1 align="center"> Bienvenido, soy Jose Salas 
   </h1>
   
-# Bienvenido a mi perfil
-Hola mi nombre es Jose Salas 
+ 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
 
@@ -47,11 +46,11 @@ Algunos cursos que he tomado:
 ## Lenguajes y Tecnologias
 
 El lenguaje que más manejo es Java 
-<br><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width=50> 
-<br><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width=50>
-<br><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width=50>
-<br><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width=50>
-<br><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/pyup.svg" width=50>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width=50> 
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width=50>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width=50>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width=50>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/pyup.svg" width=50>
 
 ## Tecnologias
 
