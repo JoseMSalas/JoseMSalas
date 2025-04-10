@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/JoseMSalas/recursos/blob/main/recursos/banner.gif">
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20>
+<a href="https://www.linkedin.com/in/josesalastrejo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20></a> 
 
 ## Lenguajes y Tecnologias
 
