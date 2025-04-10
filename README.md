@@ -4,10 +4,9 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/JoseMSalas/recursos/blob/main/recursos/banner.gif">
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=35>
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20>
 
 ## Lenguajes y Tecnologias
 
