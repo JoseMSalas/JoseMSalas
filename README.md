@@ -2,9 +2,8 @@
 **JoseMSalas/JoseMSalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center"> Bienvenido, soy Jose Salas 
-  </h1>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg">
+
+<img src="https://github.com/JoseMSalas/recursos/blob/main/recursos/banner.gif">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=50>
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
