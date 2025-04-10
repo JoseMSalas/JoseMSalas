@@ -8,39 +8,6 @@ Here are some ideas to get you started:
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
 
-## Índice
-
-- [Título e imagen de portada](#Título-e-imagen-de-portada)
-
-- [Insignias](#insignias)
-
-- [Índice](#índice)
-
-- [Cursos](#Cursos)
-
-- [Estado del proyecto](#Estado-del-proyecto)
-
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-- [Acceso al proyecto](#acceso-proyecto)
-
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-
-- [Personas Contribuyentes](#personas-contribuyentes)
-
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-- [Licencia](#licencia)
-
-- [Conclusión](#conclusión)
-
-## Cursos
-
-Algunos cursos que he tomado:
-
-- De Escuela de codigo:
-- Curso Programacion Java 
-- Sistemas web
 
 ## Lenguajes y Tecnologias
 
@@ -51,28 +18,35 @@ Algunos cursos que he tomado:
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width=160>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width=125>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width=160>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width=100>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" width=95>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=100>
 </h1>
-## Tecnologias
-
-- Actualmente estoy aprendiendo a utilizar Git y Github.
-- Manejo html, css
 
 ## Herramientas de Diseño
 <h1 align="center">
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=150>
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=200>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" width=200>
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width=200>
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width=200>
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width=180>
+<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width=180>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" width=200>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width=200>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width=200>
-<img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=200>
+<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width=120>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width=100>
+<img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
  </h1>
+
+ ## Herramientas
+ <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
+ 
+## Cursos
+
+Algunos cursos que he tomado:
+
+- De Escuela de codigo:
+- Curso Programacion Java 
+- Sistemas web
 
 ## [Estado del proyecto](https://github.com/JoseMSalas?tab=repositories)
 
