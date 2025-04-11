@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvWJCDgdhjhJFKdFVxcdJStqzgjQzgVgsdbJLKHsdJzgHlmhdvgNwTTcrgpFzmwJsTWpq"><img src="https://skillicons.dev/icons?i=gmail" width=20></a> 
 <a href="https://www.instagram.com/joe_sabbath/"><img src="https://skillicons.dev/icons?i=instagram" width=20></a> 
 
+<h4>
+ 
+ ✉️ Contacto [josemsalastrejo@gmail.com](mailto:josemsalastrejo@gmail.com)
+
+</h4>
 
 
 <h2 align="center">  :technologist: Lenguajes y Tecnologias </h2>
