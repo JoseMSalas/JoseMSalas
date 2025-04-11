@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 
 Algunos cursos que he tomado:
 
-<h3>De Escuela de codigo:</h3>
+# De Escuela de codigo:
 - Pensamiento Computacional
 - Desarrollo de Paginas Web
 - Base de Datos
 - Programacion Java 
 
-<h3>De Sistemas web</h3>
-- Manejo de Sistemas Git
+# De Sistemas web</h3>
+- :github: Manejo de Sistemas Git
   
 :paperclip:
 
