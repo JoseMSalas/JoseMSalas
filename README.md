@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
 <a href="https://www.linkedin.com/in/josesalastrejo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20></a> 
 
-## Lenguajes y Tecnologias
+## :technologist::skin-tone-4: Lenguajes y Tecnologias
 
 <h1 align="center"> 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=115> 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=100>
 </h1>
 
-## Herramientas de Diseño
+## :art: Herramientas de Diseño
 <h1 align="center">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=200>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" width=200>
@@ -36,17 +36,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
  </h1>
 
- ## Herramientas
+ ## :hammer_and_wrench: Herramientas
  <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
  
-## Cursos
+## :mortar_board: Cursos
 
 Algunos cursos que he tomado:
 
 - De Escuela de codigo:
 - Curso Programacion Java 
 - Sistemas web
-
+:paperclip:
 ## [Estado del proyecto](https://github.com/JoseMSalas?tab=repositories)
 
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
