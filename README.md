@@ -6,11 +6,18 @@ Here are some ideas to get you started:
 <img src="https://github.com/JoseMSalas/recursos/blob/main/recursos/banner2.gif">
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
-<a href="https://www.linkedin.com/in/josesalastrejo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20></a> 
+<a href="https://www.linkedin.com/in/josesalastrejo/"><img src="https://skillicons.dev/icons?i=linkedin" width=20></a> 
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img src="https://skillicons.dev/icons?i=gmail" width=20></a> 
+<a href="https://www.instagram.com/joe_sabbath/"><img src="https://skillicons.dev/icons?i=instagram" width=20></a> 
+
+
 
 <h2 align="center">  :technologist: Lenguajes y Tecnologias </h2>
 
-<h1 align="center"> 
+<p align="center">
+
+ 
+ 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=115> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width=100>
@@ -23,10 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=125>
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" width=175>
-</h1>
+</p>
+
 
 <h2 align="center"> :art: Herramientas de Diseño </h2> 
-<h1 align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=200>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" width=200>
 <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" width=180>
@@ -35,15 +43,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" width=120>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" width=100>
 <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
- </h1>
+ </p>
+
 
 <h2 align="center"> :hammer_and_wrench: Herramientas </h2>
- <h1 align="center">
+<p align="center">
  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" width=200>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width=170>
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width=170>
  <img src="" width=170>
- </h1>
+ </p>
+
  
 <h2 align="center"> :mortar_board: Cursos </h2> 
 
