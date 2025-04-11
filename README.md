@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![GitHub Org's stars](https://img.shields.io/github/stars/JoseMSalas?style=social)
 <a href="https://www.linkedin.com/in/josesalastrejo/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" width=20></a> 
 
-## :technologist::skin-tone-4: Lenguajes y Tecnologias
+<h1 align="center">  :technologist::skin-tone-4: Lenguajes y Tecnologias </h1>
 
 <h1 align="center"> 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width=115> 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=100>
 </h1>
 
-## :art: Herramientas de Diseño
+<h1 align="center"> :art: Herramientas de Diseño </h1> 
 <h1 align="center">
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=200>
 <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" width=200>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
  </h1>
 
- ## :hammer_and_wrench: Herramientas
+<h1 align="center"> :hammer_and_wrench: Herramientas </h1>
  <h1 align="center">
  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" width=170>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width=170>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  <img src="" width=170>
  </h1>
  
- ## :mortar_board: Cursos
+<h1 align="center"> :mortar_board: Cursos </h1> 
 
 Algunos cursos que he tomado:
 
