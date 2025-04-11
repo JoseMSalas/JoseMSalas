@@ -37,16 +37,23 @@ Here are some ideas to get you started:
  </h1>
 
  ## :hammer_and_wrench: Herramientas
- <img src="https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white" width=170>
+ <h1 align="center">
+ <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" width=170>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width=170>
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" width=170>
+ <img src="" width=170>
+ </h1>
  
-## :mortar_board: Cursos
+ ## :mortar_board: Cursos
 
 Algunos cursos que he tomado:
 
 - De Escuela de codigo:
 - Curso Programacion Java 
 - Sistemas web
+  
 :paperclip:
+
 ## [Estado del proyecto](https://github.com/JoseMSalas?tab=repositories)
 
 | [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
